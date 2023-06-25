@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RACHADDOUlFIKAR</h1>
 <h3 align="center">4th year Student at Moroccan School of Engineering Sciences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rachaddoulfikar&label=Profile%20views&color=0e75b6&style=flat" alt="rachaddoulfikar" /> </p>
+<p align="left"> <img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="rachaddoulfikar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachaddoulfikar" alt="rachaddoulfikar" /></a> </p>
 
