@@ -1,7 +1,9 @@
+![2000_600px](https://github.com/RACHADDOUlFIKAR/RACHADDOULFIKAR/assets/97551741/38f81f92-3f07-4966-be01-15e6c6db7264)
 <h1 align="center">Hi 👋, I'm RACHADDOUlFIKAR</h1>
+
 <h3 align="center">4th year Student at Moroccan School of Engineering Sciences.</h3>
 
-<p align="left"> <img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="rachaddoulfikar" /> </p>
+<p align="center"> <img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="rachaddoulfikar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachaddoulfikar" alt="rachaddoulfikar" /></a> </p>
 
