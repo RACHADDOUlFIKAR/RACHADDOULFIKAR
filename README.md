@@ -3,7 +3,7 @@
 
 <h3 align="center">4th year Student at Moroccan School of Engineering Sciences.</h3>
 
-<p align="center"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="rachaddoulfikar" /> </p>
+<p > <img align="right" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="rachaddoulfikar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachaddoulfikar" alt="rachaddoulfikar" /></a> </p>
 
