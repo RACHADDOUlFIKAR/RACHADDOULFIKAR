@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm RACHAD DOUlFIKAR</h1>
+<h1 align="center">Hi 👋, I'm Rachad Doulfikar</h1>
 
 <h3 align="center">4th year Student at Moroccan School of Engineering Sciences.</h3>
 
