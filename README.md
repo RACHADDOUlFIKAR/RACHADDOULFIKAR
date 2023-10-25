@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning ** IA**
+- 🌱 I’m currently learning ** Data Mining**
 
 - 👨‍💻 All of my projects are available at [https://rachadportfo.000webhostapp.com/](https://rachadportfo.000webhostapp.com/)
 
