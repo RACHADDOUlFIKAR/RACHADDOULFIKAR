@@ -1,7 +1,7 @@
 
 <h1 align="center">I'm Rachad Doulfikar .</h1>
 
-<h3 align="center">software engineer & & Architect & Full stack Developer 
+<h3 align="center">software engineer & & Full stack Developer 
 || Applied Artificial Intelligence master's degree </h3>
 
 - 📫 How to reach me **doulfikarrachad@gmail.com**
